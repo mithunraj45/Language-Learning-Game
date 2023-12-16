@@ -46,7 +46,7 @@
                 <a href="language_tutorial.php?refernce_no=<?php echo $lang_id; ?>" class="d-none d-sm-inline-block btn btn-success shadow-sm">Go back to Training </a>
             </div>
             <div class="col-4">
-                <a href="language_tutorial.php?reference_no=<?php echo $lang_id; ?>" class="d-none d-sm-inline-block btn btn-primary shadow-sm">Start Last Quiz</a>
+                <a href="quiz.php?reference_no=<?php echo $lang_id; ?>" class="d-none d-sm-inline-block btn btn-primary shadow-sm">Start Last Quiz</a>
             </div>
         </div>
         
