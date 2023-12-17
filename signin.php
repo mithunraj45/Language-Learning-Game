@@ -75,7 +75,7 @@
     <?php
         if($success_message!=''){
           ?>
-          <p style="color:green;margin-left:5%;margin-top:20%;"><?php echo $success_message; ?> <a href="login.php">Click Here</a> to login in</p>
+          <p style="color:green;margin-left:5%;margin-top:25%;"><?php echo $success_message; ?> <a href="login.php">Click Here</a> to login in</p>
         <?php
         }
     ?>

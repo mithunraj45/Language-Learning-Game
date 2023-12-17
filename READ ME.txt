@@ -1,0 +1,30 @@
+Project uses HTML,CSS,Javascript,Bootstrap for Frontend , PHP for backend and MySQL for Database.
+Create the database with name 'lang_learn_quiz_db' and import the sql file.
+
+Project starts from index.php page to learn or attend quiz game user should be login
+Can use some already exisiting users account
+mithun@gmail.com - 1234
+vachan@gmail.com - 1234
+lakshmi@gmail.com - 1234
+
+After logging un user can view its dashboard,languages to learn and attend quiz,also leaderboard.
+Language page shows avaiable language to learn and attend quiz.It provide some training data to learn with some links and vedio....
+
+images for user are static
+
+---------Quiz adn training data has been uploaded for kannad and English language ....
+
+User is promoted to next level if he clears the test with 60%.
+
+If a user clears a level then he earns a star and accuracy can be seen at dashboard.
+
+Time for each question and total questions for each level can be decided from admin side.
+
+-----ADMIN-----
+use the url https://localhost/LearnToSpeak/Admin/login.php
+
+use admin@gmail.com-1234  
+
+Admin can add,edit and delete language as well as levels and questions.
+
+Vedio of complete working will be in the document go through it for better understanding.
